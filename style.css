@@ -122,11 +122,11 @@ body{
 
 @media only screen and(min-width: 390){
     #first{
-        /* background-color: rgb(0, 62, 71); */
+        background-color: rgb(0, 62, 71);
         display: flex;
         flex-wrap: wrap;
         justify-content: space-between;
-        /* margin: 5%; */
+        margin: 5%;
         width: 20px;
     }
 
@@ -137,29 +137,29 @@ body{
 
     body{
         background-color: rgb(141, 210, 207);
-        /* width: 500px; */
+        width: 500px;
     }
     #nav{
         background-color: rgb(1, 72, 82);
         color: white;
         display: flex;
         justify-content: space-between;
-        /* margin: 2%; */
+        margin: 2%;
     }
     .button{
         background-color: rgb(70, 80, 168);
-        /* padding: 6px; */
+        padding: 6px;
         border-radius: 14px;
     }
     .signup{
-        /* display: flex; */
-        /* padding: 20px; */
+        display: flex;
+        padding: 20px;
         border-radius: 15px;
         width: 90px;
     }
     .jobbut{
         background-color: rgb(63, 176, 202);
-        /* padding: 20px; */
+        padding: 20px;
         border-radius: 15%;
     }
     #part2{
@@ -188,7 +188,7 @@ body{
       margin-left: 500px;
     }
     #expbut{
-        /* padding: 15px; */
+        padding: 15px;
         border-radius: 10px;
         background-color: rgb(254, 201, 98);
         width: 300px;
@@ -203,31 +203,31 @@ body{
     #expert{
         display: flex;
         gap: 10%;
-        /* margin: 5%; */
+        margin: 5%;
     }
     .tick{
         width: 15px;
         height: 15px;
         display: flex;
-        /* gap: 90%; */
+        gap: 90%;
     }
     #jobopening{
         background-color: rgb(0, 62, 70);
         border-radius: 20px;
         display: flex;
         gap: 10%;
-        /* padding: 40px; */
-        /* margin: 90px; */
+        padding: 40px;
+        margin: 90px;
     }
     #email{
-        /* padding: 20px; */
+        padding: 20px;
         border-radius: 8px;
     }
     #blog{
         display: flex;
         gap: 8%;
-        /* margin: 30px; */
-        /* padding: 70px; */
+        margin: 30px;
+        padding: 70px;
     }
     .image{
         width: 400px;
@@ -237,7 +237,7 @@ body{
         background-color: white;
     }
     .login{
-        /* padding: 15px; */
+        padding: 15px;
         border-radius: 14px;
         width: 25%;
     }
@@ -248,143 +248,11 @@ body{
     
     }
     #container{
-        /* margin: 5%; */
-        /* width: 1000px; */
+        margin: 5%;
+        width: 1000px;
     }
 
 }
 
-@media only screen and (min-width: 360px){
-    #first{
-        /* background-color: rgb(0, 62, 71); */
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-        /* margin: 5%; */
-        width: 20px;
-    }
 
-    .image{
-        width: 50px;
-        border-radius: 40px;
-    }
-
-    body{
-        background-color: rgb(141, 210, 207);
-        /* width: 500px; */
-    }
-    #nav{
-        background-color: rgb(1, 72, 82);
-        color: white;
-        display: flex;
-        justify-content: space-between;
-        /* margin: 2%; */
-    }
-    .button{
-        background-color: rgb(70, 80, 168);
-        /* padding: 6px; */
-        border-radius: 14px;
-    }
-    .signup{
-        /* display: flex; */
-        /* padding: 20px; */
-        border-radius: 15px;
-        width: 90px;
-    }
-    .jobbut{
-        background-color: rgb(63, 176, 202);
-        /* padding: 20px; */
-        border-radius: 15%;
-    }
-    #part2{
-        background-color: white;
-    }
-    .heading{
-        margin-left: 30%;
-        font-size: 60px;
-    }
-    .phone{
-        background: none;
-        background-color:  rgb(0, 62, 71);
-        margin-right: 10%;
-    
-    }
-    #stealth{
-        display: flex;
-        gap: 10%;
-        margin-left: 5%;
-    }
-    #seamless{
-        background-color: rgb(204, 245, 255);
-      
-    }
-    #text{
-      margin-left: 500px;
-    }
-    #expbut{
-        /* padding: 15px; */
-        border-radius: 10px;
-        background-color: rgb(254, 201, 98);
-        width: 300px;
-    }
-    #footer{
-        display: flex;
-        flex-wrap: wrap;
-        gap: 20%;
-        background-color: rgb(25, 109, 124);
-        height: 300px;
-    }
-    #expert{
-        display: flex;
-        gap: 10%;
-        /* margin: 5%; */
-    }
-    .tick{
-        width: 15px;
-        height: 15px;
-        display: flex;
-        /* gap: 90%; */
-    }
-    #jobopening{
-        background-color: rgb(0, 62, 70);
-        border-radius: 20px;
-        display: flex;
-        gap: 10%;
-        /* padding: 40px; */
-        /* margin: 90px; */
-    }
-    #email{
-        /* padding: 20px; */
-        border-radius: 8px;
-    }
-    #blog{
-        display: flex;
-        gap: 8%;
-        /* margin: 30px; */
-        /* padding: 70px; */
-    }
-    .image{
-        width: 400px;
-        border-radius: 40px;
-    }
-    #half{
-        background-color: white;
-    }
-    .login{
-        /* padding: 15px; */
-        border-radius: 14px;
-        width: 25%;
-    }
-    #last{
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-evenly;
-    
-    }
-    #container{
-        /* margin: 5%; */
-        /* width: 1000px; */
-    }
-
-}
 
